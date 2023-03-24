@@ -11,6 +11,8 @@
 ## 🖥 Introduction 🖥
 This project is a game of Mastermind that was made by using a Raspberry pi pico w. We used various captors such as a screen, a keypad and leds. You can play the game alone (solo) or with a friend (duo) and the goal is to guess the code by typing it on the keypad.
 
+You can watch the tutorial on this video <a href="https://www.youtube.com/watch?v=goPf4nZi2Tk">right here</a>
+
 ## 📝 Instructions 📝
 
 The game starts with NodeJS.
